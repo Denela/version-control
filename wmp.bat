@@ -1,0 +1,1 @@
+cd windows/programs/windows-media-player
